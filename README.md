@@ -1,6 +1,6 @@
 <h1 align="center" id="title">ERC721A Smart Contract ( modified )</h1>
 
-<p align="center"><img src="https://img.shields.io/github/last-commit/bogartph2022/ERC721A-Smart-Contract" alt="shields"></p> | <p align=><img src="https://img.shields.io/github/forks/bogartph2022/ERC721A-Smart-Contract?style=social" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/github/last-commit/bogartph2022/ERC721A-Smart-Contract" alt="shields"></p><p align=><img src="https://img.shields.io/github/forks/bogartph2022/ERC721A-Smart-Contract?style=social" alt="shields"></p>
 
   
   
