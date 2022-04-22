@@ -1,0 +1,7 @@
+{
+    "name": "INV FREND",
+    "description": "Your collection description goes here",
+    "seller_fee_basis_points": 2.5, // You can always change this configuration
+    "external_link": "https://incfrend.vercel.app",
+    "fee_recipient": "0xB7b5E15Ad76bb20F428d2E0EF1D399082F1c349b"
+  }
