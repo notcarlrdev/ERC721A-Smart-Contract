@@ -23,14 +23,16 @@ Here're some of the project's best features:
     "description": "Your Collection Description"   
     "seller_fee_basis_points": 2.5 // You can always change this configuration  
     "external_link": "https://YourWebsiteName.com"   
-    "fee_recipient": "Your Wallet Address" }
+    "fee_recipient": "Your Wallet Address" 
+}
 ```
 
 <b>Changing baseURI</b>
 
 ```
 function _baseURI() internal view virtual returns (string memory) {     
-    return "Your Base URI Here";   }
+    return "Your Base URI Here";   
+}
 ```
 
 <b>Changing Minting Price and baseTokenURI</B>
